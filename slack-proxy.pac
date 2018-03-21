@@ -3,9 +3,11 @@ var proxy = "SOCKS5 127.0.0.1:18726;";
 var domains = {
   "slack.com": 1, 
   "slack-msgs.com": 1, 
-  "slack-edge.com": 1, 
-  "slack-imgs.com": 1, 
-
+  "slack-files.com": 1,
+  "slack-imgs.com": 1,
+  "slack-edge.com": 1,
+  "slack-core.com": 1,
+  "slack-redir.net": 1,
 };
 
 var direct = 'DIRECT;';
